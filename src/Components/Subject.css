@@ -1,0 +1,24 @@
+.card-container{
+    box-shadow: 0 0 2px 2px #85db98;
+    width: 45%;
+    display: flex;
+    gap: 3rem;
+    justify-content: center;
+    text-align: center;
+    border-radius: 20px;
+    margin: 20px;
+    margin-top: 25px;
+    padding: 1rem;
+}
+
+#input{
+    font-size: 20px;
+}
+
+.btn{
+    padding: 2px 5px 2px 5px;
+    font-size: 15px;
+    columns: rgb(210, 53, 53);
+    margin: 15px;
+}
+
